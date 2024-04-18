@@ -33,7 +33,7 @@ function setup(){
   poseNet.on('pose', gotResults);
 }
 
-function modelLoad()
+function modelLoaded()
 {
   // yes
 }
